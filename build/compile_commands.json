@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/new_danya_cpp/build",
+  "command": "C:/msys64/ucrt64/bin/c++.exe  @CMakeFiles/Draw.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/Draw.dir/main.cpp.obj -c C:/new_danya_cpp/main.cpp",
+  "file": "C:/new_danya_cpp/main.cpp",
+  "output": "CMakeFiles/Draw.dir/main.cpp.obj"
+}
+]

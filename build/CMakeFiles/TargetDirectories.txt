@@ -1,0 +1,3 @@
+C:/new_danya_cpp/build/CMakeFiles/Draw.dir
+C:/new_danya_cpp/build/CMakeFiles/edit_cache.dir
+C:/new_danya_cpp/build/CMakeFiles/rebuild_cache.dir
